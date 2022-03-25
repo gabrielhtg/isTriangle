@@ -2,7 +2,7 @@
 
 Ini adalah program yang dibuat dengan bahasa pemrograman LISP. Dengan tujuan sebagai bahan pembelajaran dan untuk menentukan apakah 3 sisi segitiga yang di input oleh user itu memenuhi syarat untuk membentuk sebuah segitiga.
 
-Berikut video cara membuatnya: <button><a href=https://youtu.be/Ti5kaYaNUJU">Klik Disini</a></button>
+Berikut video cara membuatnya: <button><a href="https://youtu.be/Ti5kaYaNUJU">Klik Disini</a></button>
 
 ## How to use?
 
