@@ -20,7 +20,7 @@ Berikut cara menggunakannya:
 4. Tekan enter.
 5. Akan memberikan output berupa boolean, yaitu t (true) atau nil (false). Selamat mencoba :)
 
-![ss](ss.png)
+![ss](ss1.png)
 
 ## <b>About Me</b>
 
